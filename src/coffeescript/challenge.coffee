@@ -1,3 +1,5 @@
+#Produced for first Eyebeam / Google Data Visualization Challenge
+
 loaded = false
 
 window.addEvent 'domready', ->
